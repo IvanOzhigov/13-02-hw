@@ -27,6 +27,10 @@
 
 ## Ответ
 
+![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/1-1.png)
+![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/1-2.png)
+![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/1-3.png)
+
 ### Задание 2
 
 1. Установите поддержку **LUKS**.
@@ -36,6 +40,10 @@
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
 ## Ответ
+
+![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/2-1.png)
+![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/2-2.png)
+![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/2-3.png)
 
 Новый раздел не создавал из-за нехватки места. ПРописываю команды которые должен был проделать:
 
