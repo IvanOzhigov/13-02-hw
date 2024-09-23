@@ -45,7 +45,7 @@
 ![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/2-2.png)
 ![alt text](https://github.com/IvanOzhigov/13-02-hw/blob/main/2-3.png)
 
-Новый раздел не создавал из-за нехватки места. ПРописываю команды которые должен был проделать:
+Новый раздел не создавал из-за нехватки места. Прописываю команды которые должен был проделать:
 
 sudo cryptsetup -y -v luksFormat /dev/sda
 
